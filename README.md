@@ -1,2 +1,2 @@
 # Games
-little project with HTML and JavaScript
+a little project made with HTML and JavaScript
